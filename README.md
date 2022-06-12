@@ -1,2 +1,2 @@
 # nodeImgs
-Github+jsdelivr cdn+Pigo图片储存
+Github+jsdelivr cdn+Picgo图片储存
